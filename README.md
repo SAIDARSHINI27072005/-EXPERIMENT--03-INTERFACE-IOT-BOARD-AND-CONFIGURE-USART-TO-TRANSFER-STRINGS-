@@ -1,7 +1,7 @@
 <H3>NAME   : Sai Darshini R S </H3>
 <H3>REG NO :212223230178 </H3>
 <H3>EX. NO.3</H3>
-<H3>DATE: 21.04.2025</H3>
+<H3>DATE: 26.03.2025</H3>
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
